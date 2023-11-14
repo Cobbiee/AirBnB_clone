@@ -1,6 +1,7 @@
 0x00. AirBnB clone - The console
-This is the First Project towards our AirBnB clone project at [ALX](alxafrica.com). Done by [Emmanuel](https://github.com/Cobbiee) and [Priscilla](https://github.com/Prila1)
 
+This is the First Project towards our AirBnB clone project at [ALX](alxafrica.com).
+Done by [Emmanuel](https://github.com/Cobbiee) and [Priscilla](https://github.com/Prila1)
 
 ## General Use
 Step 1. 
